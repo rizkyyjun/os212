@@ -12,3 +12,9 @@ ZCZC W00 20 L13 Assignment #03
 ZCZC W00 05 L14 Assignment #04
 ZCZC W00 20 L15 Assignment #05
 ZCZC W00 45 L06 References/Books/Documents/GSGS related
+ZCZC W01 100 L02 Weekly synchronous class
+ZCZC W01 15 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 25 L11 Assignment #01
+ZCZC W01 08 L32 Watch "Vim Basics in 8 Minutes"
+ZCZC W01 120 L12 Assignment #02
+ZCZC W01 20 L08 AsDos: asking, etc.
