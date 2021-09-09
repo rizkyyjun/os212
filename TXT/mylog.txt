@@ -19,3 +19,4 @@ ZCZC W01 08 L32 Watch "Vim Basics in 8 Minutes"
 ZCZC W01 120 L12 Assignment #02
 ZCZC W01 20 L08 AsDos: asking, etc.
 ZCZC W01 60 L14 Assignment #04
+ZCZC W01 25 L15 Assignment #05
