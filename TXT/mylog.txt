@@ -25,3 +25,13 @@ ZCZC W00 30 L16 Assignment #06
 ZCZC W01 05 L17 Assignment #07
 ZCZC W01 20 L18 Assignment #08
 ZCZC W01 20 L19 Assignment #09
+ZCZC W02 100 L02 Weekly Synchronous class
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 87 L13 Assignment #03
+ZCZC W02 05 L14 Assignment #04
+ZCZC W02 05 L15 Assignment #05
+ZCZC W02 05 L16 Assignment #06
+ZCZC WO2 05 L17 Assignment #07
+ZCZC W02 10 L18 Assignment #08
+ZCZC W03 10 L19 Assignment #09
