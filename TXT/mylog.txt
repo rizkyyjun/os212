@@ -50,3 +50,9 @@ ZCZC W03 15 L17 Assignment #07
 ZCZC W03 15 L18 Assignment #08
 ZCZC W03 10 L19 Assignment #09
 ZCZC W03 12 L32 Watch "Files & File Systems: Crash Course Computer Science #20"
+ZCZC W04 100 L02 Weekly Synchronous class
+ZCZC W04 60 L11 Assignment #01 read OSC10 chapter 9
+ZCZC W04 65 L12 Assignment #02 try demos Week04
+ZCZC W04 45 L13 Assignment #03 try previous midterm problems (file 199.pdf)
+ZCZC W04 15 L14 Assignment #04 Install TLPI
+ZCZC W04 30 L15 Assignment #05 Fetch and Extract File "WEEK04.tar.bz2.asc"
