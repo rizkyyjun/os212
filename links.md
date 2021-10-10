@@ -41,11 +41,11 @@ permalink: /LINKS/
  This article provide systematic information about dynamic memory allocation and fragmentation in C. I believe that it would be helpful to make us understand about these concept because the explanation is clear, simple and systematic.
 
 ## Week 05
-1. [Virtual Memory Concept in Operating System](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+1. [Virtual Memory Concept in Operating System](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br/>
  This page is talk about virtual memory in operating system, including the definition of virtual memory and also advantage and disadvantage of virtual memory. This page is also provide information about 3 page replacement algorithms that used in virtual memory, such as First In First Out (FIFO), Optimal, and Least Recently Used (LRU). I believe that it would be helpful to make us understand about virtual memory because the explanation is clear and to the point.
 
-2. [Another Virtual Memory Concept in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+2. [Another Virtual Memory Concept in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br/>
  This article provide information about virtual memory in operating system, including topic of demand paging, page fault, swapping, and trashing. So, this page will help us to understand further topic about virtual memory in operating system.
 
-3. [Page Replacement Algorithms in Virtual Memory](https://www.youtube.com/watch?v=IHu-8IQ97AQ&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT&index=7)
+3. [Page Replacement Algorithms in Virtual Memory](https://www.youtube.com/watch?v=IHu-8IQ97AQ&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT&index=7)<br/>
  This video explain about 3 page replacement algorithms in virtual memory with example of how to use these algorithms. I believe that it would be helpful for us to understand how page replacement algorithm works in virtual memory so it'll help us to answer previous midterm problems on file 200.pdf.
