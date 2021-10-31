@@ -49,3 +49,17 @@ permalink: /LINKS/
 
 3. [Page Replacement Algorithms in Virtual Memory](https://www.youtube.com/watch?v=IHu-8IQ97AQ&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT&index=7)<br/>
  This video explain about 3 page replacement algorithms in virtual memory with example of how to use these algorithms. I believe that it would be helpful for us to understand how page replacement algorithm works in virtual memory so it'll help us to answer previous midterm problems on file 200.pdf.
+
+## Week 06
+1. [fork() in c](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br/>
+ This article mostly talk about fork() function in c. The content is complete enough to help us understand how fork() function work in c, this article also provide several examples of fork() function with a sketch visualization that helpful for us.
+
+2. [fork() docs](https://man7.org/linux/man-pages/man2/fork.2.html)<br/>
+ Linux manual page about fork() function (fork() function documentations). This page provide complete information about fork() function just like all of the other documentation. I believe it would be helpful to make us understand fork() function further. 
+
+3. [Summary of Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)<br/>
+ This article provide informations about processes in OS just like chapter 3 in text book, but using a simple explanation so it make us easier to understand this topic.
+
+4. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/#why-are-threads-useful) and [Difference between Process and Thread](https://www.guru99.com/difference-between-process-and-thread.html)<br/>
+ The first one is article that explains about thread and concurrency, the explanations is clear and understandable and  also provide a lot of visualization, so would be helpful for us to understand these topics and the second one is article that mostly talk about process and the difference between process and thread. From this article i know that process means any program is in execution, while thread means a segment of a process. This article point out the difference using a lot of parameters, so i believe that it would be helpful for us. 
+

@@ -75,3 +75,14 @@ ZCZC W05 13 L32 Watch "Page Fault | Cara Menangani Page Fault | Thrashing - Sist
 ZCZC W05 08 L32 Watch "Virtual Memory: 3 What is Virtual Memory?"
 ZCZC W05 03 L32 Watch "Metode dan Strategi Menangani Deadlock - Sistem Operasi (Deadlock Part 3)"
 ZCZC W05 15 L19 Assignment #09 Submit my assignments
+ZCZC W06 100 L02 Weekly Synchronous Class
+ZCZC W06 30 L11 Assignment #01 READ OSC10 chapter 3 and 4
+ZCZC W06 40 L12 Assignment #02 try demos Week06
+ZCZC W06 40 L13 Assignment #03 try previous midterm problems (file 201.pdf)
+ZCZC W06 65 L14 Assignment #04 Completing all of the assignments
+ZCZC W06 70 L15 Assignment #05 Update my links.md
+ZCZC W06 40 L17 Assignment #07 Update myrank.txt
+ZCZC W06 25 L18 Assignment #08 Update mylog.txt
+ZCZC W06 05 L32 Watch "Processes and Threads (Concurrency Basics)"
+ZCZC W06 20 L32 Watch "fork() and exec() System Calls"
+ZCZC W06 20 L19 Assignment #09 Submit my assignments 
