@@ -86,3 +86,13 @@ ZCZC W06 25 L18 Assignment #08 Update mylog.txt
 ZCZC W06 05 L32 Watch "Processes and Threads (Concurrency Basics)"
 ZCZC W06 20 L32 Watch "fork() and exec() System Calls"
 ZCZC W06 20 L19 Assignment #09 Submit my assignments 
+ZCZC W07 120 L02 Weekly Synchronous Class
+ZCZC W07 30 L11 Assignment #01 READ OSC10 chapter 6, 7, and 8
+ZCZC W07 45 L12 Assignment #02 try demos Week07
+ZCZC W07 40 L13 Assignment #03 try previous midterm problems (file 202.pdf)
+ZCZC W07 120 L14 Assignment #04 Completing all of the assignments
+ZCZC W07 70 L15 Assignment #05 Update my links.md
+ZCZC W07 35 L17 Assignment #07 Update myrank.txt
+ZCZC W07 30 L18 Assignment #08 Update mylog.txt
+ZCZC W07 06 L32 Watch "Race Conditions and How to Prevent Them - A Look at Dekker's Algorithm"
+ZCZC W07 20 L19 Assignment #09 Submit my assignments

@@ -63,3 +63,12 @@ permalink: /LINKS/
 4. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/#why-are-threads-useful) and [Difference between Process and Thread](https://www.guru99.com/difference-between-process-and-thread.html)<br/>
  The first one is article that explains about thread and concurrency, the explanations is clear and understandable and  also provide a lot of visualization, so would be helpful for us to understand these topics and the second one is article that mostly talk about process and the difference between process and thread. From this article i know that process means any program is in execution, while thread means a segment of a process. This article point out the difference using a lot of parameters, so i believe that it would be helpful for us. 
 
+## Week 07
+1. [Process Synchronization in Operating Systems](https://www.studytonight.com/operating-system/process-synchronization)<br/>
+ This article explain about process synchronization in os, just like textbook chapter 6, it also explain about race condition and several solution to face critical solution problem. It'll help us to understand our weekly topic.
+
+2.[Intro to Deadlock in OS](https://www.guru99.com/deadlock-in-operating-system.html)<br/>
+ This article give us information about deadlock. From this page i know that deadlock is a situation when any process enters a waiting state because another waiting process is holding the demain resource, and deadlock is common problem in multiprocessing, when there are several process happen concurrently. The explanations are clear and understandable, it also comes with simple explanation and visualization to makes us understand this topic.
+
+3.[Visualization of race condition and how to solve it using Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br/>
+ This video comes with great visualization about race condition. It really help me to understand and visualize race condition in os when there are two programs that try to access data at the same time (concurrent). 
