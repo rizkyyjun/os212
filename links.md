@@ -67,8 +67,8 @@ permalink: /LINKS/
 1. [Process Synchronization in Operating Systems](https://www.studytonight.com/operating-system/process-synchronization)<br/>
  This article explain about process synchronization in os, just like textbook chapter 6, it also explain about race condition and several solution to face critical solution problem. It'll help us to understand our weekly topic.
 
-2.[Intro to Deadlock in OS](https://www.guru99.com/deadlock-in-operating-system.html)<br/>
+2. [Intro to Deadlock in OS](https://www.guru99.com/deadlock-in-operating-system.html)<br/>
  This article give us information about deadlock. From this page i know that deadlock is a situation when any process enters a waiting state because another waiting process is holding the demain resource, and deadlock is common problem in multiprocessing, when there are several process happen concurrently. The explanations are clear and understandable, it also comes with simple explanation and visualization to makes us understand this topic.
 
-3.[Visualization of race condition and how to solve it using Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br/>
+3. [Visualization of race condition and how to solve it using Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br/>
  This video comes with great visualization about race condition. It really help me to understand and visualize race condition in os when there are two programs that try to access data at the same time (concurrent). 
