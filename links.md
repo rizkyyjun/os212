@@ -72,3 +72,13 @@ permalink: /LINKS/
 
 3. [Visualization of race condition and how to solve it using Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br/>
  This video comes with great visualization about race condition. It really help me to understand and visualize race condition in os when there are two programs that try to access data at the same time (concurrent). 
+
+## Week 08
+1. [Scheduling Algorithm in Operating Systems](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br/>
+ This article provides complete and helpful information about scheduling algorithms in OS, such as FCFS, SJN, Priority Based, and also Round Robin.
+
+2. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html)<br/>
+ Summary of chapter 5 os, this website give us complete information about CPU Scheduling. It also comes with good explanation and visualization so i believe that it would be helpful for us.
+
+3. [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)<br/>
+ Website that provides information about difference between preemptive and non-preemptive scheduling. It also provide comparison chart to help us understand the difference between them. 

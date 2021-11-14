@@ -96,3 +96,13 @@ ZCZC W07 35 L17 Assignment #07 Update myrank.txt
 ZCZC W07 30 L18 Assignment #08 Update mylog.txt
 ZCZC W07 06 L32 Watch "Race Conditions and How to Prevent Them - A Look at Dekker's Algorithm"
 ZCZC W07 20 L19 Assignment #09 Submit my assignments
+ZCZC W08 120 L02 Weekly Synchronous Class
+ZCZC W08 15 L11 Assignment #01 READ OSC10 chapter 5
+ZCZC W08 25 L12 Assignment #02 try demos Week08
+ZCZC W08 20 L13 Assignment #03 try previous finalterm problems
+ZCZC W08 65 L14 Assignment #04 LFS chapter 1-4
+ZCZC W08 120 L15 Assignment #05 LFS chapter 5
+ZCZC W08 20 L16 Assignment #06 Update mylinks.md
+ZCZC W08 20 L17 Assignment #07 Update myrank.txt
+ZCZC W08 20 L18 Assignment #08 Update mylog.txt
+ZCZC W08 20 L19 Assignment #09 Submit my assignments 
