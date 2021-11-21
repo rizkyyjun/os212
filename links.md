@@ -84,7 +84,7 @@ permalink: /LINKS/
  Website that provides information about difference between preemptive and non-preemptive scheduling. It also provide comparison chart to help us understand the difference between them. 
 
 ## Week 09
-1. [RAID Concepts](https://www.javatpoint.com/what-is-raid)</br>
+1. [RAID Concepts](https://www.javatpoint.com/what-is-raid)<br/>
  Article that provide information about RAID, from this page i know that RAID is a way of storing the same data in different places on multiple hard disks to protect data in the case of a drive failure. This page also cover information about how raid works and levels of RAID, so i believe it would be helpful.
 
 2. [levels of RAID](https://www.enterprisestorageforum.com/management/raid-levels-explained/)<br/>
